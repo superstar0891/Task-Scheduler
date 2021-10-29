@@ -1,4 +1,4 @@
-# mern-auth
+# Task management
 
 <a href='https://postimg.cc/HchbbYXj' target='_blank'><img src='https://i.postimg.cc/Y0p8KjSN/Screenshot-1.png' border='0' alt='Screenshot-1'/></a>
 This is Task management app using MERN stack.
