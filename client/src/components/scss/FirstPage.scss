@@ -1,0 +1,1117 @@
+
+.animation1 {
+    // margin-top: 20%;
+    font-weight: 500;
+    text-align: center;
+    font-size: 20px;
+    font-family: Hack, fantasy;
+    text-transform: uppercase;
+    background: linear-gradient(90deg, rgb(255, 0, 0), #fff, rgb(0, 0, 255));
+    letter-spacing: 2px;
+    -webkit-background-clip: text;
+    background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-size: 90%;
+    animation: shine 5s linear infinite;
+    margin-top: 5px;
+  }
+  
+  @keyframes shine {
+    0% {
+      background-position-x: -500%;
+    }
+    100% {
+      background-position-x: 500%;
+    }
+  }
+.First-root{
+    width: 1500px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+ }
+ 
+ .FooterLink{
+     display: flex;
+ }
+ .FooterLink-flower{
+     margin: 30px 20px 30px 15px;
+     i{
+         font-size: 34.12px;
+     }
+ }
+ .collectioncap-right{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    
+    color: #0EDD95;
+    
+ }
+ .Container{
+     width: 100%;
+ }
+ .SubMenu{
+     margin-top: 83px;
+ }
+ .first-collect{
+     width: 100%;
+     display: flex;
+     justify-content: space-between;
+ }
+ .first-collect-left-steam, .first-collect-left-nfts{
+    font-family: Saira;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 120%;
+    text-transform: capitalize;
+    color: #fff;
+ }
+ .first-collect-left-collect{
+    font-family: Saira;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 70px;
+    line-height: 120%;
+    text-transform: capitalize;
+    color: #0EDD95;  
+ }
+ .first-collect-left-btn-explore{
+    width: 180px;
+    height: 60px;
+    background: #0EDD95;
+    border-radius: 64.2517px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #040404;
+ }
+ .first-collect-left-btn-lean-line{
+    border: 0.966143px solid #FFFFFF;
+    transform: rotate(-0.19deg);
+ }
+ .first-collect-left-btn-lean{
+     margin-left: 50px;
+     height: 60px;
+     
+     display: flex;
+     justify-content: center;
+     flex-direction: column;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    text-align: center;
+    color: #FFFFFF;
+    p{
+        margin: 0;
+        padding: 0;
+    }
+ }
+ .first-collect-left-btngroup{
+     margin-top: 50px;
+     display: flex;
+ }
+ .first-collect-left-small-character{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    color: #FFFFFF;
+    opacity: 0.5;
+ }
+ .first-collect-left{
+    margin-left: 150px;
+    width: auto;
+    margin-top: 185px;
+    display: flex;
+    flex-direction: column;
+ }
+ .first-collect-right{
+     margin-top: 130px;
+     width: auto;
+     img{
+         width: 820px;
+     }
+ }
+.TeamContainer{
+    display: flex;
+    flex-direction: column;
+    margin-top: 60px;
+}
+.Teammember{
+    display: flex;
+    justify-content: center;
+}
+.footer{
+    display: flex;
+    align-items: center;
+    color: white;
+    margin-top: 35.27px;
+
+}
+.des{
+    margin-right: 47px;
+}
+.dove{
+    border-radius: 100%;
+    background-color: black;
+    width: 47.56px;   
+    height: 47.56px;
+}
+.dove img{
+    margin-left: 12px;
+    margin-top: 13px;
+}
+.nind{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+
+opacity: 0.5;
+}
+.ninlog{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 24px;
+line-height: 29px;
+
+color: #FFFFFF;
+}
+.Teammember .ninja{
+    background: #1C1C25;
+    border: 1.64444px solid rgba(255, 255, 255, 0.3);
+    box-sizing: border-box;
+    border-radius: 20.3799px;
+        width: 370px;
+    height: 488px;
+    padding: 34.65px 27.38px 139.27px 28.53px;
+    margin-left: 30px;
+}
+.Teammember .soldier{
+    background: #1C1C25;
+    border: 1.64444px solid rgba(255, 255, 255, 0.3);
+    box-sizing: border-box;
+    border-radius: 20.3799px;
+        width: 370px;
+    height: 488px;
+    padding: 34.65px 27.38px 139.27px 28.53px;
+    margin-left: 30px;
+}
+.Teammember .mud{
+    background: #1C1C25;
+    border: 1.64444px solid rgba(255, 255, 255, 0.3);
+    box-sizing: border-box;
+    border-radius: 20.3799px;
+        width: 370px;
+    height: 488px;
+    padding: 34.65px 27.38px 139.27px 28.53px;
+    margin-left: 30px;
+}
+.teamcap{
+    font-family: Saira;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 58px;
+    line-height: 120%;
+    text-align: center;
+    color: #FDFDFD;
+    margin-top: 200px;
+} 
+
+.faq{
+    display: flex;
+    color:white;
+    flex-direction: column;
+    margin-top: 188px;
+    /*  */
+    width: 60%;
+    margin-left: 20%;
+}
+.faq-collapse{
+    display: flex;
+    flex-direction: column;
+    /*  */
+}
+.faq-collapse div{
+    font-family: Saira;
+font-style: normal;
+font-weight: normal;
+font-size: 28px;
+line-height: 44px;
+background: #1C1C25;
+border: 1px solid #606066;
+box-sizing: border-box;
+box-shadow: 25px 77px 53px rgba(11, 11, 11, 0.3);
+border-radius: 20px;
+color: #FFFFFF;
+margin-top: 30px;
+padding: 30px;
+}
+.plus{
+    float: right;
+}
+.title{
+    font-family: Saira;
+font-style: normal;
+font-weight: 800;
+font-size: 58px;
+line-height: 120%;
+text-align: center;
+color: #FDFDFD;
+margin: 0 0 87px 0;
+}
+.page-footer-hr{
+    border: 1px solid rgba(255, 255, 255, 0.5);
+    margin-bottom: 31px;
+}
+.befooter{
+    display: flex;
+    color: white;
+    margin-top: 307px;
+    background: #1C1C25;
+
+}
+.joinus{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #0EDD95;
+}
+.dolor{
+    font-family: Saira;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 58px;
+    line-height: 120%;
+    text-transform: capitalize;
+    color: #0EDD95;
+}
+.dolor span{
+    color: white;
+}
+.landing-text{
+    flex: 70%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.landing-pic{
+    flex: 30%;
+}
+.regnow{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #040404;
+    font-weight: bold;
+    width: 217px;
+    font-size: 16px;
+    height: 60px;
+    background: #0EDD95;
+    border-radius: 64.2517px;
+}
+.roadmap{
+    background: linear-gradient(180deg, rgba(14, 221, 149, 0.18) 0%, rgba(14, 221, 149, 0) 90.57%);
+    border-radius: 20px;
+    color: white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 60%;
+    padding-top: 130px;
+    margin-left: 20%;
+}
+.linevec{
+    width: 400px;
+    height: auto;
+    z-index: 5;
+}
+.roadmapCap{
+    font-family: Saira;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 58px;
+    line-height: 120%;
+    text-align: center;
+    color: #FDFDFD;
+}
+.first-whataresteampunk-right-aboutus{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 20px;
+    color: #0EDD95;
+    margin-bottom: 25px;
+}
+.percenttext-20{
+    margin-right: 50px;
+}
+.first-whataresteampunk-right-whatare{
+    font-family: Saira;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 58px;
+    line-height: 120%;
+    color: #FDFDFD;
+    margin-bottom: 30px;
+}
+.first-whataresteampunk{
+    display: flex;
+    margin-bottom: 187px;
+}
+.first-whataresteampunk-left{
+    img{
+        width: 780px;
+    }
+}
+.first-whataresteampunk-right{
+    margin: 50px 0 0 71.38px;
+}
+.roadexp{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 16px;
+    line-height: 30px;
+    text-align: center;
+    color: #FFFFFF;
+    opacity: 0.5;
+    width: 70%;
+    margin-bottom: 72px;
+}
+.rowleft{
+    background: #050507;
+    border-radius: 10px;
+    padding: 20px;
+    width: 70%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: -20px;
+    margin-bottom: -20px;
+}
+.percenttext{
+    margin-left: 65px;
+}
+.percent{
+    width: 100px;
+    height: 100px;
+    border-radius: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: Saira;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 30px;
+    line-height: 120%;
+    background: #1C1C25;
+    color: #0EDD95;
+}
+.Whsteampunk{
+    display: flex;
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 60px;
+    margin-bottom: 60px;
+}
+.WhsteampunkLogo{
+    position: relative;
+    margin-left: 5%;
+
+    flex: 70%;
+}
+.testimg1{
+    position: relative;
+    border-radius: 100%;
+    width: 444.93px;
+    height: 444.93px;
+    left: 20px;
+    top: 120px;
+
+}
+.WhsteampunkText{
+    color: white;
+    flex: 25%;
+    padding: 30px;
+    margin-right: 20%;
+}
+.testimg2{
+    position: relative;
+    border-radius: 100%;
+    width: 165.59px;
+    height: 165.59px;
+    left: 10px;
+    bottom: 180px;
+}
+.testimg3{
+    position: relative;
+    border-radius: 100%;
+    width: 102.39px;
+    height: 102.39px;
+    bottom: 320px;
+    right: 280px;
+}
+.testimg4{
+    position: relative;
+    border-radius: 100%;
+    width: 40.45px;
+    height: 40.45px;
+    bottom: 390px;
+    right: 260px;
+}
+.overlay1{
+    position: relative;
+    width: 600px;
+    height: 600px;
+    opacity: 0.3;
+    border: 1px solid #0EDD95;
+    box-sizing: border-box;
+    border-radius: 100%;
+    bottom: 400px;
+    right: 200px;
+    z-index: -1;
+}.overlay2{
+    position: relative;
+    width: 600px;
+    height: 600px;
+    opacity: 0.3;
+    border: 1px solid #0EDD95;
+    box-sizing: border-box;
+    border-radius: 100%;
+    bottom: 1000px;
+    right: 100px;
+    z-index: -1;
+}
+.orb1{
+    position: relative;
+    width: 25px;
+height: 25px;
+border-radius: 100%;
+bottom: 1300px;
+left: 490px;
+background: #09714E;
+}
+
+.whsabout{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+color: #0EDD95;
+}
+.orb2{
+    position: relative;
+    width: 25px;
+height: 25px;
+border-radius: 100%;
+bottom: 1045px;
+left: 140px;
+background: #09714E;
+}
+.orb3{
+    position: relative;
+    width: 12px;
+    height: 12px;
+border-radius: 100%;
+bottom: 1652px;
+left: 140px;
+background: #09714E;
+}
+.whsmain{
+    font-family: Saira;
+    font-style: normal;
+    font-weight: 800;
+    font-size: 58px;
+    line-height: 120%;
+    /* or 70px */
+    
+    
+    color: #FDFDFD; 
+}
+.whstext{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+
+color: #FFFFFF;
+
+opacity: 0.5;
+}
+.mintsubbtn{
+width: 180px;
+height: 60px;
+margin-right: 20px;
+background: #0EDD95;
+border-radius: 64.2517px;
+}
+.mintlearn{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+
+
+.CollectContainer{
+    margin-bottom: 250px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.coll{
+    width: 270px;
+    height: 327px;
+    background: #1C1C25;
+    border: 1.2px solid rgba(255, 255, 255, 0.3);
+    box-sizing: border-box;
+    border-radius: 12px;
+    padding: 23px 19.8px 74.8px 21px;
+}
+.photocollection{
+    display: flex;
+    // border: 1px solid red;
+    justify-content: space-between;
+    width: 80%;
+    .photocollection-in{
+        display: flex;
+        width: 50%;
+        justify-content: space-around;
+    }
+}
+.photocollection img{
+    width: 229.2px;
+height: 229.2px;
+}
+.fire{
+    margin-left: 20px;
+}
+.collectioncap{
+    margin-top: 65px;
+    width: 80%;
+    color: white;
+    font-family: Saira;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 32px;
+    line-height: 100%;
+    margin-bottom: 59px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+
+
+color: #FDFDFD;
+}
+.colllog{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 8px;
+line-height: 10px;
+
+color: #FFFFFF;
+}
+.collsec{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+display: flex;
+align-items: center;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.collegimg{
+    width: 21.21px !important;
+height: 21.21px !important;
+margin-right:10px;
+margin-left: 30px;
+}
+.FinalContainer{
+    display: flex;
+    width: 60%;
+    margin-left: 20%;
+    margin-bottom: -1200px;
+}
+.FinalTextBE{
+    color: white;
+    flex: 20%;
+margin-top: 167px;
+display: flex;
+flex-direction: column;
+align-items: center;
+}
+.FinalLog{
+    flex: 80%;
+}
+.finalcap{
+    font-family: Saira;
+font-style: normal;
+font-weight: bold;
+font-size: 70px;
+line-height: 120%;
+/* or 84px */
+
+text-transform: capitalize;
+
+color: #0EDD95;
+}
+.finalnor{
+    color: white;
+}
+.finaltext{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 30px;
+/* or 187% */
+
+
+color: #FFFFFF;
+
+opacity: 0.5;
+}
+.finalexplore{
+    width: 180px;
+height: 60px;
+left: 131px;
+top: 690px;
+
+background: #0EDD95;
+border-radius: 64.2517px;
+margin-right: 30px;
+}
+.finala{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 500;
+font-size: 16px;
+line-height: 20px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.finalcard1{
+    width: 436px;
+height: 529px;
+position: relative;
+background: #1C1C25;
+border: 1.93909px solid rgba(255, 255, 255, 0.3);
+box-sizing: border-box;
+border-radius: 19.3909px;   
+padding: 47.88px 32.63px 110.76px 33px;
+bottom: 295px;
+left: 277px;
+}
+.finalcard2{
+top: 285px;
+left: 115px;
+    position: relative;
+    width: 367px;
+height: 448px;
+background: #1C1C25;
+border: 1.63111px solid rgba(255, 255, 255, 0.3);
+box-sizing: border-box;
+border-radius: 16.3111px;
+padding: 32px 22.48px 100.48px 29px;
+}
+.finalcolllog{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13.0489px;
+line-height: 16px;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.finalcollsec{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: 600;
+font-size: 23.269px;
+line-height: 28px;
+display: flex;
+align-items: center;
+/* identical to box height */
+
+
+color: #FFFFFF;
+}
+.finalcollsec span{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13.0489px;
+line-height: 16px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.finalcolllog2{
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 15px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+.finalcollsec2{
+    display: flex;
+    align-items: center;
+    font-family: Montserrat;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 19.5733px;
+    line-height: 24px;
+    /* identical to box height */
+    
+    
+    color: #FFFFFF;
+}
+.finalcollsec2 span{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 13.0489px;
+line-height: 16px;
+/* identical to box height */
+
+text-align: center;
+
+color: #FFFFFF;
+}
+.finaloverlay1{
+    position: relative;
+width: 671px;
+height: 671px;
+border-radius: 100%;
+bottom: 800px;
+left: 50px;
+opacity: 0.5;
+border: 1.11647px solid #0EDD95;
+box-sizing: border-box;
+z-index: -1;
+}
+.finaloverlay2{
+    position: relative;
+width: 671px;
+height: 671px;
+border-radius: 100%;
+bottom: 1480px;
+left: 250px;
+opacity: 0.5;
+border: 1.11647px solid #0EDD95;
+box-sizing: border-box;
+z-index: -1;
+}
+.finalorb1{
+    position: relative;
+    width: 12px;
+    height: 12px;
+    border-radius: 100%;
+background: #09714E;
+bottom: 2100px;
+left: 205px;
+}
+.finalorb2{
+    position: relative;
+    width: 25px;
+    height: 25px;
+    border-radius: 100%;
+background: #09714E;
+bottom: 1800px;
+left: 905px;
+}
+.finalorb3{
+    position: relative;
+    width: 12px;
+    height: 12px;
+    border-radius: 100%;
+background: #09714E;
+bottom: 1580px;
+left: 765px;
+}
+
+.FinalFooter{
+    display: flex;
+    color: white;
+    flex-direction: column;
+}
+.SubMenu{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.Footerlog{
+    font-family: Saira;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 25px;
+    line-height: 44px;
+    flex: 20%;
+    text-align: center;
+    color: #FFFFFF;
+    margin: 30px 20px 30px 20px;
+}
+.FooterMenu{
+    font-family: Montserrat;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+/* identical to box height */
+
+text-align: center;
+color: #FFFFFF;
+}
+.copy{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 30px;
+}
+.FooterMenu{
+    flex: 60%;
+}
+.FooterMenu span{
+    margin: 10px;
+}
+.FooterLink img{
+    margin: 30px 20px 30px 20px;
+}
+.FooterLink{
+    flex: 20%;
+}
+
+@media screen and (max-width:1170px) {
+    .First-root{
+        border: 1px solid red !important;
+    }
+    .first-collect{
+        flex-direction: column !important;
+    }
+    .first-collect-left{
+        margin-left: 0 !important;
+        width: 100% !important;
+        justify-content: center !important;
+        align-items: center !important;
+        text-align: center !important;
+    }
+    .first-collect-right{
+        width: 100% !important;
+        display: flex !important;
+        justify-content: center !important;
+        align-items: center !important;
+        margin-top: 50px !important;
+        img{
+            width: 500px !important;
+        }
+    }
+    .photocollection{
+        display: flex !important;
+        flex-direction: column !important;
+        align-items: center !important;
+    }
+    .photocollection-in{
+        width: 80% !important;
+        margin: 10px !important;
+    }
+    .collectioncap{
+        width: 65% !important;
+    }
+    .first-whataresteampunk{
+        flex-direction: column !important;
+        .first-whataresteampunk-left{
+            margin-top: 50px !important;
+            order: 2 !important;
+            display: flex !important;
+            justify-content: center !important;
+            img{
+                width: 500px !important;
+            }
+        }
+        .first-whataresteampunk-right{
+            order: 1 !important;
+            margin: 0 !important;
+            display: flex !important;
+            flex-direction: column !important;
+            text-align: center !important;
+            justify-content: center  !important;
+            align-items: center !important;
+        }
+    }
+    .Teammember{
+        flex-direction: column !important;
+        align-items: center !important;
+        .ninja, .mud, .soldier{
+            margin: 20px 0 0 0 !important;
+        }
+    }
+    .linevec{
+        width: 55% !important;
+    }
+    .befooter{
+        flex-direction: column !important;
+        .landing-pic{
+            margin:20px !important;
+            order: 2 !important;
+            display: flex !important;
+            justify-content: center !important;
+            text-align: center !important;
+            .cover{
+                display: flex !important;
+                flex-direction: column !important;
+                align-items: center !important;
+            }
+        }
+        .landing-text{
+            order:1 !important;
+            margin:20px !important;
+            display: flex !important;
+            justify-content: center !important;
+            text-align: center !important;
+            .cover{
+                display: flex !important;
+                flex-direction: column !important;
+                align-items: center !important;
+            }
+        }
+    }
+    .SubMenu{
+        flex-direction: column !important;
+    }
+
+}
+@media screen and (max-width:430px) {
+    .first-collect-left-collect, .first-collect-left-steam{
+        font-size: 50px !important;
+    }
+    .first-collect-left-small-character{
+        width: 50% !important;
+    }
+    .first-collect-right{
+        img{
+            width: 390px !important;
+            margin: 50px 0 0 40px !important;
+        }
+    }
+    .first-whataresteampunk-right-whatare{
+        font-size: 50px !important;
+    }
+    #first-whataresteampunk-left-img{
+        width: 380px !important;
+        margin: 29px 65px 0 0 !important;
+    }
+    .roadmapCap{
+        font-size: 30px !important;
+    }
+    #landing-pic-img{
+        width: 300px !important;
+    }
+}
+@media screen and (max-width:900px) {
+    .photocollection{
+        margin-top: 70px !important;
+
+    }
+    .faq-collapse-character{
+        font-size: 20px !important;
+    }
+    .collectioncap{
+        display: none !important;
+    }
+    .rowleft{
+        flex-direction: column !important;
+        text-align: center !important;
+        margin: 0 !important;
+        .percenttext, .percenttext-20{
+            order: 2 !important;
+            width: 100% !important;
+            margin: 0 !important;
+            text-align: center !important;
+            margin-top: 20px !important;
+        }
+        .percent{
+            order: 1 !important;
+        }
+
+    }
+    .photocollection-in{
+        flex-direction: column !important;
+        align-items: center !important;
+        .coll{
+            margin: 10px !important;
+        }
+    }
+}
+@media screen and (max-width:560px) {
+    .landing-pic{
+        img{
+            width: 390px !important;
+        }
+    }
+    .faq-collapse-character{
+        font-size: 15px !important;
+    }
+    .dolor{
+        font-size: 40px !important;
+    }
+    .faq{
+        display: none !important;
+    }
+    .befooter{
+        margin-top: 200px !important;
+    }
+}
